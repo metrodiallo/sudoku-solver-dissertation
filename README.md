@@ -15,6 +15,10 @@ The solvers were evaluated across:
 
 Performance metrics included solving time and success rate.
 
+### Dissertation
+- [Final Year Dissertation PDF](docs/dissertation.pdf)
+
+
 ## Technologies Used
 - Python
 - PySAT (Glucose3)
