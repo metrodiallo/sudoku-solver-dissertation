@@ -3,6 +3,17 @@
 ## Overview
 This project was developed as part of my final-year dissertation and investigates Sudoku as a benchmark problem for constraint satisfaction problems (CSPs). The project compares different solving approaches to evaluate how performance changes with puzzle size and difficulty.
 
+## Key Skills
+- Constraint Satisfaction Problems (CSPs) analysis
+- Algorithm design: Backtracking, MRV heuristic
+- SAT-solving using PySAT (Glucose3)
+- Constraint Programming with MiniZinc
+- Python programming: Pandas, Matplotlib, Seaborn, subprocess, tempfile, json
+- Web app development: Streamlit
+- Data visualization and performance analysis
+- Problem-solving and computational efficiency evaluation
+
+
 ## Solving Approaches
 - Backtracking with Minimum Remaining Values (MRV) heuristic
 - SAT-based solving using PySAT (Glucose3)
@@ -39,12 +50,16 @@ These results are **produced automatically by code** during execution and includ
 - Heatmap visualization: ![Heatmap](screenshots/generated_results/figure_4_heatmap.png)
 
 
-## Technologies Used
-- Python
+## Technologies & Key Skills
+- Python (Pandas, Matplotlib, Seaborn, subprocess, tempfile, json)
 - PySAT (Glucose3)
 - MiniZinc
 - Streamlit
-- Constraint Satisfaction Problems (CSP)
+- Constraint Satisfaction Problems (CSPs)
+- Algorithm design: Backtracking, MRV heuristic
+- Data visualization and performance analysis
+- Application interface development
+
 
 ## How to Run
 1. Install dependencies:
