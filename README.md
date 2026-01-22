@@ -18,6 +18,26 @@ Performance metrics included solving time and success rate.
 ### Dissertation
 - [Final Year Dissertation PDF](docs/dissertation.pdf)
 
+### Screenshots
+
+This project includes screenshots of both the application interface and results **generated automatically by code** during execution (using Python libraries such as Matplotlib, Seaborn, and Pandas).
+
+#### Application Interface
+These screenshots show the Sudoku app and actual results from running the solvers:
+
+- App interface: ![Sudoku App](screenshots/app_interface/SudokuApp.PNG)
+- Generated results in app: ![Generated Results](screenshots/app_interface/GeneratedResults.PNG)
+- Random Sudoku puzzle generator: ![Random Sudoku Generator](screenshots/app_interface/RandomSudokuGenerator.PNG)
+
+#### Generated Results
+These results are **produced automatically by code** during execution and include performance visualizations, distributions, heatmaps, and anomaly detection:
+
+- 9×9 puzzle performance: ![9x9 Performance](screenshots/generated_results/figure_4_1_9x9_performance.png)
+- Scalability comparison: ![Scalability](screenshots/generated_results/figure_4_2_scalability_comparison.png)
+- Anomalies detected: ![Anomalies](screenshots/generated_results/figure_4_anomalies.png)
+- Distribution plot: ![Distribution](screenshots/generated_results/figure_4_distribution.png)
+- Heatmap visualization: ![Heatmap](screenshots/generated_results/figure_4_heatmap.png)
+
 
 ## Technologies Used
 - Python
